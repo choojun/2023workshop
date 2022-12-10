@@ -1,7 +1,7 @@
 Welcome to the workshop of 
 # Machine Learning for Engineering Data Intelligence
 
-### Date: 19-20 July 2022
+### Date: 26-27 Jan 2023
 ### Venue: CREST, Sains@USM, Bukit Jambul, Penang, Malaysia 
 ![logo-crest](https://user-images.githubusercontent.com/6356054/180654656-1f939115-9ab8-4d69-acbe-696760dfa620.png) ![logo-sains](https://user-images.githubusercontent.com/6356054/180654503-0bff22b7-7179-4a1d-9d04-048626f13c93.jpg)
 
@@ -26,7 +26,7 @@ This workshop is ideal for professionals in various domains, ranging from engine
 
 ## Workshop Agenda
 
-### Day 1 - Tuesday, 19 July 2022
+### Day 1 - Thursday, 26 Jan 2023
 | From | - | To | Learning and Activities |
 |-------|---|-------|---|
 | 09:00 | - | 09:30 | **Machine Learning Concepts**  |
@@ -41,7 +41,7 @@ This workshop is ideal for professionals in various domains, ranging from engine
 | 16:45 | - | 17:00 | Highlights and Takeaways  |
 
 
-### Day 2 - Wednesday, 20 July 2022
+### Day 2 - Friday, 27 Jan 2023
 | From | - | To | Learning and Activities |
 |-------|---|-------|---|
 | 09:00 | - | 09:30 | **Intelligent Decision Analytics Concepts**  |
