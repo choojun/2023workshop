@@ -21,7 +21,10 @@ This workshop is ideal for professionals in various domains, ranging from engine
 * Real-world case studies and hands-on sessions on machine learning models
 
 ## Facilitators of Workshop
-![logo-deakin](https://user-images.githubusercontent.com/6356054/180655396-389e1c58-7d9a-4b05-90f1-644f3eb1841a.png) ![logo-wou](https://user-images.githubusercontent.com/6356054/180655403-faf66799-d48b-4632-a8fd-5f3530ca2f3e.png) ![logo-unimap](https://user-images.githubusercontent.com/6356054/180655470-fb2e9a14-704d-4b92-b28b-c74bbd7b8dcc.jpg)
+1. Professor Lim Chee Peng
+2. Dr Ooi Woi Seng
+3. Dr Tan Choo Jun
+4. Dr Tiang Tow Leong
 
 
 ## Workshop Agenda
@@ -69,4 +72,4 @@ This workshop is ideal for professionals in various domains, ranging from engine
 [Slides of Workshop](https://github.com/choojun/2022workshop_ml/files/9175962/2022MachineLearningforEngineeringDataIntelligence.pdf)
 
 
-[![](https://github.com/choojun/2022workshop_ml/raw/master/webimages/next.png)](https://github.com/choojun/2022workshop_ml/wiki/0.1:-Setup_Python_Tensorflow)
+[![](https://github.com/choojun/2023workshop_ml/raw/master/webimages/next.png)](https://github.com/choojun/2022workshop_ml/wiki/0.1:-Setup_Python_Tensorflow)
